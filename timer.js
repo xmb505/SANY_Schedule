@@ -6,7 +6,7 @@
     parserRes
 } = {}) {
     return {
-        totalWeek: 20, // 总周数：[1, 30]之间的整数
+        totalWeek: 22, // 总周数：[1, 30]之间的整数
         startSemester: '', // 开学时间：时间戳，13位长度字符串，推荐用代码生成
         startWithSunday: false, // 是否是周日为起始日，该选项为true时，会开启显示周末选项
         showWeekend: false, // 是否显示周末
@@ -23,7 +23,7 @@
             { section: 7, startTime: "15:50", endTime: "16:35" },
             { section: 8, startTime: "16:45", endTime: "17:30" },
             { section: 9, startTime: "19:00", endTime: "19:45" },
-            { section: 10, startTime: "19:55", endTime: "20:55" }
+            { section: 10, startTime: "19:55", endTime: "20:30" }
         ], // 课程时间表，注意：总长度要和上边配置的节数加和对齐
     }
 }

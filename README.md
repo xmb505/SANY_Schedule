@@ -42,7 +42,7 @@
 遇到数据错误或同步失败？请按以下步骤提交反馈：
 1. **匿名化数据**：删除教务系统账号等隐私信息
 2. **描述现象**：具体错误表现（如课程重复、时间错位等）
-3. **提交Issue**：[点击此处](https://github.com/你的账号/SANY_Schedule/issues) 提供信息
+3. **提交Issue**：[点击此处](https://github.com/xmb505/SANY_Schedule/issues) 提供信息
 
 ---
 
